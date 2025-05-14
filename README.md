@@ -9,6 +9,7 @@ CSS3 – For designing visually appealing layouts and styles
 JavaScript – For adding interactivity and dynamic behavior to websites
 
 📂 Projects & Tasks
+
 📌 Task 1: Uptoskills Official Website (Basic Version)
 Developed a basic version of the Uptoskills official website using HTML and inline CSS for styling. This task focused on understanding HTML structure and basic styling techniques.
 
