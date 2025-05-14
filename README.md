@@ -1,4 +1,4 @@
-Uptoskills Web Development Internship Projects
+# Uptoskills Web Development Internship Related Projects
 This repository showcases the projects and tasks completed during the Uptoskills Web Development Internship. The internship focused on enhancing front-end development skills through hands-on assignments that involved building responsive and interactive websites using HTML5, CSS3, and JavaScript.
 
 🚀 Technologies Used
