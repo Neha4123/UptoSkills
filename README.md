@@ -2,6 +2,7 @@
 This repository showcases the projects and tasks completed during the Uptoskills Web Development Internship. The internship focused on enhancing front-end development skills through hands-on assignments that involved building responsive and interactive websites using HTML5, CSS3, and JavaScript.
 
 🚀 Technologies Used
+
 HTML5 – For structuring the content and layout of web pages
 
 CSS3 – For designing visually appealing layouts and styles
